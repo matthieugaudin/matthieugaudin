@@ -10,9 +10,9 @@
 ---
 
 ## 🛠️ Languages & Tools  
-- **C** → system programming, algorithms, low-level projects 
-- **C++** → learning it for advanced concepts and object-oriented design
-- **Python** → practicing it mainly for AI and automation
+- **C** → system programming, algorithms, low-level projects
+- **C++** → learning it for object-oriented projects
+- **Python** → practicing it mainly to learn AI
 - **Linux** → I have solid basics (processes, signals, pipes, bash-like project)
 - **Git & GitHub** → I know the fundamentals (branching, collaboration, version control)
 
