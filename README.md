@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 💻 About Me  
-- 🎓 Ex-**42 Angoulême** student, now studying **BUT GEII**
+- 🎓 Ex-**42 Angoulême** student
 - 📚 Now in my first year of **BUT GEII**
 - 💻 I like coding in **C**, **C++** and exploring Linux & 
 - 📟 Currently interested in embedded systems
