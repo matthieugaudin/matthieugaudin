@@ -1,19 +1,20 @@
-# Hi there 👋  
+# Hi there 👋
 
 ## 💻 About Me  
-- 🎓 Ex-**42 Angoulême** student, now studying **BUT GEII**  
-- 🔧 Passionate about **low-level programming**, **algorithms**, and **system design**  
-- 🐧 Exploring **Linux**, **UNIX processes**, **shells**, and **embedded systems**  
-- 🎨 Also enjoy coding **fractals**, **graphics (Cub3D)**, and mathematical projects  
-- 🚀 Always learning, building, and pushing my limits  
+- 🎓 Ex-**42 Angoulême** student, now studying **BUT GEII**
+- 📚 Now in my first year of **BUT GEII**
+- 💻 I like coding in **C**, **C++** and exploring Linux & 
+- 📟 Currently interested in embedded systems
+- 🚀 Always learning and building
 
 ---
 
 ## 🛠️ Languages & Tools  
-- **C / C++** → system programming, algorithms, low-level projects  
-- **Python** → scripts, automation, math experiments  
-- **Shell / Linux** → processes, signals, pipes, minishell-like projects  
-- **Git & GitHub** → branching, collaboration  
+- **C** → system programming, algorithms, low-level projects 
+- **C++** → learning it for advanced concepts and object-oriented design
+- **Python** → practicing it mainly for AI and automation
+- **Linux** → I have solid basics (processes, signals, pipes, bash-like project)
+- **Git & GitHub** → I know the fundamentals (branching, collaboration, version control)
 
 ---
 
@@ -24,21 +25,3 @@
 - 🔹 `fract-ol` → fractals with interactive zoom & math  
 - 🔹 `Cub3D` → raycasting & graphics in C  
 - 🔹 `computor-v1` / `computor-v2` → math interpreter with equations, rationals, matrices & more  
-
----
-
-## 🌱 Currently Learning  
-- Embedded systems & electronics in **BUT GEII**  
-- Advanced **algorithm complexity** (beyond Big O)  
-- **C++** best practices & design patterns  
-- **Math & physics foundations** useful for GEII  
-
----
-
-## 📫 Reach Me  
-- ✉️ [Your Email here if you want]  
-- 🌐 [LinkedIn or portfolio if you want]  
-
----
-
-⚡ *"Code, debug, learn, repeat."*
