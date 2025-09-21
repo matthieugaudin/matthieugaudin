@@ -1,11 +1,11 @@
 # Hi there 👋
 
 ## 💻 About Me  
-- 🎓 Ex-**42 Angoulême** student
-- 📚 Now in my first year of **BUT GEII**
-- 💻 I like coding in **C** and **C++**
-- 📟 Currently interested in **embedded systems**
-- 🚀 Always learning and building
+- Ex-**42 Angoulême** student
+- Now in my first year of **BUT GEII**
+- I like coding in **C** and **C++**
+- Currently interested in **embedded systems**
+- Always learning and building
 
 ---
 
