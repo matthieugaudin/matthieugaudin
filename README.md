@@ -7,8 +7,6 @@
 - Currently interested in **embedded systems**
 - Always learning and building
 
----
-
 ## 🛠️ Languages & Tools  
 - **C** → system programming, algorithms, low-level projects
 - **C++** → learning it for object-oriented projects
