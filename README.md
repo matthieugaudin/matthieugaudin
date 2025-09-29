@@ -1,6 +1,6 @@
 ## 💻 About Me  
-- Ex-**42 Angoulême** student
 - Now in my first year of **BUT GEII**
+- Ex-**42 Angoulême** student
 - I like coding in **C** and **C++**
 - Currently interested in **embedded systems**
 
